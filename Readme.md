@@ -1,7 +1,6 @@
-Music 🎶 streaming service API :-
-Swagger
-http://3306:8080/swagger-ui.html#/
-Frameworks and language used:
+# Music 🎶 streaming service API :-
+# Swagger- http://13.211.58.141:8080/swagger-ui/index.html#/
+ rameworks and language used:
 Java
 Spring Boot
 SQL database
