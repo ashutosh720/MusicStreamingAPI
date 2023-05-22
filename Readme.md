@@ -1,4 +1,4 @@
-# Music 🎶 streaming service API :-
+# Music streaming service API :-
 
 # Swagger- http://13.211.58.141:8080/swagger-ui/index.html#/
 
